@@ -1,0 +1,12 @@
+{
+    "name": "f4brizio/gettokenstwitter",
+    "authors": [
+        {
+            "name": "Fabrizio Piminchumo",
+            "email": "f4brizio.21@gmail.comf"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "2.0.0"
+    }
+}
